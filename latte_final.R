@@ -7,8 +7,7 @@
 
 library(vegan)
 library(vegetarian)
-source("/Users/bkroger/Documents/r/rnames/rname_finals/rname_functions.r");
-setwd("/Users/bkroger/Documents/r/rnames/rname_finals/");
+setwd();
 source("latte_functions.r");
 
 ##############
